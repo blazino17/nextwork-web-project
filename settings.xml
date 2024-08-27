@@ -26,7 +26,7 @@
   <mirror>
     <id>nextwork-nextwork-packages</id>
     <name>nextwork-nextwork-packages</name>
-    <url>https://nextwork-263364156125.d.codeartifact.us-west-2.amazonaws.com/maven/nextwork-packages/</url>
+    <url>https://nextwork-263364156125.d.codeartifact.us-east-2.amazonaws.com/maven/nextwork-packages/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
